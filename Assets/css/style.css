@@ -1,0 +1,143 @@
+
+        
+
+.navbar.navbar-default.navbar__background {
+   background-color: #000;
+   background: #000;
+   border-color: #000;
+   margin-bottom: 0;
+   border-radius: 0;
+}
+.navbar__logotipo  {
+	width: 3em;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+.container__llamado {
+	font-size: 4em;
+	text-align: center;
+    font-family:"Playfair Display";
+    color: #fff;
+    padding: 4em 0 0 0;
+    font-style: italic;
+}
+
+.container__background {
+	background-image: url(../img/post-image.jpg);
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ico__down {
+	padding-top: 4em;
+	width: 1em;
+}
+span.ico__calendar {
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	width: 3em;
+    height: 3em;
+	padding: 7px;
+	border: 1px solid #595a5a;
+}
+
+.ico__calendar img{
+    width: 1.5em;
+}
+p.section__contenido-fecha  {
+	font-family: "Playfair Display";
+}
+.section__contenido p {
+	line-height: 2.2em;
+	color: #595a5a;
+	font-family:"Roboto"
+	font-style: normal;
+    font-weight: 300;
+    font-size: 1.2em;
+}
+
+.section__contenido-compartir-ico {
+	background-color: #595a5a;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	width: 3em;
+    height: 3em;
+	padding: 7px;
+	float: left;
+
+}
+.section__contenido-compartir-ico img {
+	width: 2em;
+	overflow: hidden;
+}
+.section__contenido-compartir-ico-twitter img {
+	width: 2em;
+	overflow: hidden;
+}
+
+.section__contenido-compartir-ico-twitter p {
+	background-color: #595a5a;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+	color: #fff;
+	float: left;
+	font-size: 0.8em;
+    width: 23em;
+    float: left;
+    padding: 1em;
+}
+
+.section__footer {
+	margin: 2em 0;
+}
+
+.section__footer-separador {
+	border: 0.5px solid #eaeaea;
+	width: 100%;
+	margin: 2em 0;
+}
+.section__footer-informacion img {
+	border-radius: 50%;
+	float: left;
+    width: 9em;
+    margin-right: 2em;
+}
+.section__footer-informacion h2 {
+	font-family: "Playfair Display";
+	font-style: italic;
+    font-weight: 700;
+}
+.section__footer-informacion p {
+	font-family:"Roboto";
+	font-style: normal;
+    font-weight: 300;
+    font-size: 1em;
+}
+.descripcion {
+	line-height: 2em;
+}
+.section__footer-otroscursos {
+	background-color: #e6e7e7;
+	padding: 2em 0;
+
+}
+.section__footer-otroscursos span img {
+	width: 2em;
+	margin: 0 1em;
+	
+}
+.section__footer-otroscursos a {
+	color: #636668;
+}
+.section__footer-logo {
+	background-color: #121619;
+	padding: 2em 0;
+}
+.section__footer-logo img {
+	width: 4em;
+	text-align: center;
+}
