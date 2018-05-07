@@ -139,5 +139,12 @@ p.section__contenido-fecha  {
 }
 .section__footer-logo img {
 	width: 4em;
-	text-align: center;
+
 }
+@media (max-width: 480px) {
+
+		.section__footer-logo-mobile {
+		text-align: center;
+		}
+
+	}
